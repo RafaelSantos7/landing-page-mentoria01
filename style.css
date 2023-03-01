@@ -247,7 +247,8 @@ form {
     .table, 
     .paragraphContainerMobile,
     .textPeopleMobile,
-    .peopleMobile {
+    .peopleMobile,
+    .b {
         display: block;
     }
 
